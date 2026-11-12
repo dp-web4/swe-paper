@@ -2,7 +2,7 @@
 
 *What moved, what did not, and why, for a Gemma-4-31B software agent scored once a day*
 
-Paper-track submission to the Kaggle **Gemma 4 Developer Agent** competition, 2026-11-12. The paper is [`PAPER.md`](PAPER.md) (2,987 words).
+Paper-track submission to the Kaggle **Gemma 4 Developer Agent** competition, 2026-11-12. The paper is [`PAPER.md`](PAPER.md) (2,985 words). Our logs and drafts call it by its working title, "Shipped Is Not Used, and the Box Was Ours".
 
 It covers more than thirty scored versions of one agent. Most of what we tried did not move the hosted score. The two largest effects were both limits we had set ourselves:
 - budgets and a false description of the harness that we had never measured against the host;

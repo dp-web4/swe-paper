@@ -1,6 +1,6 @@
 # When the Harness Holds the Agent Back
 
-*What moved, what did not, and why, for a Gemma-4-31B software agent scored once a day*
+*We investigate how budgets, tool access, and misleading local tests shaped a Gemma 4 software agent’s performance*
 
 ## Abstract
 
